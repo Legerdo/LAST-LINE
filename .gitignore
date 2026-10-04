@@ -1,0 +1,20 @@
+# Godot generated state
+.godot/
+
+# Local/exported builds
+build/
+
+# Simulation output
+sim/out/
+
+# Large generated/source media. Keep reproducible prompt sources.
+art_src/*
+!art_src/prompts/
+!art_src/prompts/**
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
