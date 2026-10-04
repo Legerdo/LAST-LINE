@@ -2,6 +2,16 @@
 
 종말 이후의 도시, 마지막으로 달리는 지하철. 열차는 스스로 노선을 돌며 싸우고, 플레이어는 카드로 노선 주변 세계를 바꾼다. 더 벌려면 세계를 더 위험하게 만들어야 한다.
 
+## 스크린샷
+
+| 타이틀 | 차량기지 |
+| --- | --- |
+| ![LAST LINE 타이틀 화면](docs/screenshots/title.png) | ![LAST LINE 차량기지 화면](docs/screenshots/hub.png) |
+
+| 운행 초반 | 운행 진행 |
+| --- | --- |
+| ![LAST LINE 운행 초반](docs/screenshots/run-early.png) | ![LAST LINE 운행 진행](docs/screenshots/run-combat.png) |
+
 ## 실행
 
 - 빌드: `build/LastLine.exe` (Windows x64, 단일 실행 파일)
